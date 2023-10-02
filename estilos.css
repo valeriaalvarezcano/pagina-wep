@@ -11,13 +11,11 @@
     
     body{
     
-    background-image: url("fondo.jpg");
+    background-image: url("fondo.webp");
     
     background-repeat: no-repeat;
     
     }
-    
-    
     
     .img{
     
@@ -57,9 +55,250 @@
     
     text-align: justify;
     
-    color: brown;
+    color: rgb(241, 140, 140);
     
      
     
     }
-    
+    .contenido{
+
+        height: 280px;
+        
+        width: 100%;
+        
+        position: absolute;
+        
+        top: 410px;
+        
+         
+        
+        }
+        
+         
+        
+        .imagentecno{
+        
+         
+        
+        background-repeat: no-repeat;
+        
+        float:left;
+        
+        height: 200px;
+        
+        width: 260px;
+        
+        margin-left: 5px;
+        
+        margin-right:5px;
+        
+        background-image: url("foto.webp");
+        
+        }
+        
+        
+        
+        .textotecno{
+        
+        text-align: justify;
+        
+        color: azure;
+        
+        font-size: 20px;
+        
+        
+        
+        }
+
+        .contenido{
+
+            height: 280px;
+            
+            width: 100%;
+            
+            position: absolute;
+            
+            top: 410px;
+            
+             
+            
+            }
+            
+             
+            
+            .imagensociales{
+            
+             
+            
+            background-repeat: no-repeat;
+            
+            float:left;
+            
+            height: 200px;
+            
+            width: 260px;
+            
+            margin-left: 10px;
+            
+            margin:  10px;
+            
+            background-image: url("colonias.jpg");
+            
+            }
+            
+            
+            
+            .textosociales{
+            
+            text-align: justify;
+            
+            color: rgb(172, 245, 245);
+            
+            font-size: 10px;
+            
+            
+            
+            }
+            .contenido{
+
+                height: 280px;
+                
+                width: 100%;
+                
+                position: absolute;
+                
+                top: 310px;
+                
+                 
+                
+                }
+                
+                 
+                
+                .imagenmate{
+                
+                 
+                
+                background-repeat: no-repeat;
+                
+                float:left;
+                
+                height: 200px;
+                
+                width: 260px;
+                
+                margin-left: 10px;
+                
+                margin-right:10px;
+                
+                background-image: url("algebra.jpg");
+                
+                }
+                
+                
+                
+                .textomate{
+                
+                text-align: justify;
+                
+                color: rgb(183, 245, 112);
+                
+                font-size: 15px;
+                
+                
+                
+                }
+                .contenido{
+
+                    height: 280px;
+                    
+                    width: 100%;
+                    
+                    position: absolute;
+                    
+                    top: 310px;
+                    
+                     
+                    
+                    }
+                    
+                     
+                    
+                    .imagenbiologia{
+                    
+                     
+                    
+                    background-repeat: no-repeat;
+                    
+                    float:left;
+                    
+                    height: 200px;
+                    
+                    width: 260px;
+                    
+                    margin-left: 7px;
+                    
+                    margin: right 7px;
+                    
+                    background-image: url("biolo.jpeg");
+                    
+                    }
+                    
+                    
+                    
+                    .textobiologia{
+                    
+                    text-align: justify;
+                    
+                    color: rgb(247, 215, 109);
+                    
+                    font-size: 25px;
+                                                            
+                    }
+                    .contenido{
+
+                        height: 280px;
+                        
+                        width: 100%;
+                        
+                        position: absolute;
+                        
+                        top: 310px;
+                        
+                         
+                        
+                        }
+                        
+                         
+                        
+                        .imagenreligion{
+                        
+                         
+                        
+                        background-repeat: no-repeat;
+                        
+                        float:left;
+                        
+                        height: 200px;
+                        
+                        width: 260px;
+                        
+                        margin-left: 7px;
+                        
+                        margin: right 7px;
+                        
+                        background-image: url("hinduismo.jpg");
+                        
+                        }
+                        
+                        
+                        
+                        .textoreligion{
+                        
+                        text-align: justify;
+                        
+                        color: rgb(247, 215, 109);
+                        
+                        font-size: 5px;
+                                                                
+                        }

@@ -1,4 +1,3 @@
-
 *{
     padding: 0px;
     margin: 0px;
@@ -7,7 +6,7 @@ ul, ol{
     list-style: none;
 }
 .botones li a{
-    background-color: rgb(5, 247, 247);
+    background-color: rgb(255, 96, 96);
     color: rgb(0, 0, 0);
     text-decoration: none;
     padding: 10px 10px;
