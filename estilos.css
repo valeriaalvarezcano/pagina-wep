@@ -5,12 +5,36 @@
     font-size: 50px;
     padding-top: 140px;
     text-align: justify;
-    color: rgb(20, 20, 20);
+    color: rgb(19, 18, 19);
 }
 .principal{
    display: flex;
      
 }
 body{
-    background-image: url("hellokitty.jpg");
+    background-image: url("Hello\ kitty.jpg");
+}
+.titulo{
+font-size: 60px;
+color: black;
+text-align: center;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.img1{
+     height: 193px;
+     width: 300px;
+     background-image: url("circuitos.jpg");
+     float:  left;
+}  
+.img2{
+    height:550px;
+    width: 550px;
+    background-image: url("Ciclo_v2.jpg");
+    float:  left;
+}
+.img4{
+    height: 300px;
+    width:  650px;
+    background-image: url("niveles\ electronicos.webp");
+    float:  left;
 }
