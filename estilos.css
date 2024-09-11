@@ -32,9 +32,21 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-image: url("Ciclo_v2.jpg");
     float:  left;
 }
+.img3{
+    height:300px ;
+    width: 300px;
+    background-image: url(circuitos.jpg);
+    float: left;
+}
 .img4{
     height: 300px;
     width:  650px;
     background-image: url("niveles\ electronicos.webp");
     float:  left;
+}
+.img5{
+    height: 400px;
+    width: 600px;
+    background-image: url(funciones\ de\ exel.jpg);
+    float: left;
 }
