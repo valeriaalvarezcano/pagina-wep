@@ -50,3 +50,27 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-image: url(funciones\ de\ exel.jpg);
     float: left;
 }
+.img6{
+    height: 1000px;
+    width: 1000px;
+    background-image: url(imagen\ relacionada.webp);
+    float: left;
+}
+.img7{
+    height: 500px;
+    width:  500px;
+    background-image: url(Futbol.webp) ;
+    float: left;
+}
+.img8{
+    height: 500px;
+    width:  500px;
+    background-image: url(Motos.jpg) ;
+    float: left;
+}
+.img9{
+    height: 500px;
+    width:  500px;
+    background-image: url(Maquillaje.avif) ;
+    float: left;
+}
