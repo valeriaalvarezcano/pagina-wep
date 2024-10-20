@@ -5,18 +5,19 @@
     font-size: 50px;
     padding-top: 140px;
     text-align: justify;
-    color: rgb(19, 18, 19);
+    color: rgb(12, 12, 12);
 }
 .principal{
    display: flex;
      
 }
 body{
-    background-image: url("Hello\ kitty.jpg");
+    background-image: url(hellokitty.jpg);
+   
 }
 .titulo{
 font-size: 60px;
-color: black;
+color: rgb(73, 210, 24);
 text-align: center;
 font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
@@ -24,53 +25,139 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
      height: 193px;
      width: 300px;
      background-image: url("circuitos.jpg");
+     background-repeat: no-repeat;
      float:  left;
 }  
 .img2{
     height:550px;
     width: 550px;
     background-image: url("Ciclo_v2.jpg");
+    background-repeat: no-repeat;
     float:  left;
 }
 .img3{
     height:300px ;
     width: 300px;
     background-image: url(circuitos.jpg);
+    background-repeat: no-repeat;
     float: left;
 }
 .img4{
     height: 300px;
     width:  650px;
     background-image: url("niveles\ electronicos.webp");
+    background-repeat: no-repeat;
     float:  left;
 }
 .img5{
     height: 400px;
     width: 600px;
     background-image: url(funciones\ de\ exel.jpg);
+    background-repeat: no-repeat;
     float: left;
 }
 .img6{
     height: 1000px;
     width: 1000px;
     background-image: url(imagen\ relacionada.webp);
+    background-repeat: no-repeat;
     float: left;
 }
 .img7{
     height: 500px;
     width:  500px;
     background-image: url(Futbol.webp) ;
+    background-repeat: no-repeat;
     float: left;
 }
 .img8{
     height: 500px;
     width:  500px;
     background-image: url(Motos.jpg) ;
+    background-repeat: no-repeat;
     float: left;
 }
 .img9{
     height: 500px;
     width:  500px;
     background-image: url(Maquillaje.avif) ;
+    background-repeat: no-repeat;
+    float: left;
+}
+.img10{
+    height: 300px;
+    width:  300px;
+    background-image: url(enlace\ ionico.jpg) ;
+    background-repeat: no-repeat;
+    float: left;
+}
+.img11{
+    height: 300px;
+    width:  300px;
+    background-image: url(enlace\ covalente.jpg) ;
+    background-repeat: no-repeat;
+    float: left;
+}
+.img12{
+    height: 300px;
+    width:  300px;
+    background-image: url(enlace\ metálico.jpg) ;
+    background-repeat: no-repeat;
+    float: left;
+}
+.img13{
+    height: 1500px;
+    width:  1500px;
+    background-image: url(mapa\ conceptual\ de\ enlaces\ químicos.jpg) ;
+    background-repeat: no-repeat;
+    float: left;
+}
+.img14{
+    height: 1500px;
+    width:  1500px;
+    background-image: url(embarazo.jpg) ;
+    background-repeat: no-repeat;
+    float: left;
+}
+.img15{
+    height: 1500px;
+    width:  1500px;
+    background-image: url(Síntomas\ de\ embarazo.webp) ;
+    background-repeat: no-repeat;
+    float: left;
+}
+.img16{
+    height: 500px;
+    width:  500px;
+    background-image: url(fecundacion.webp) ;
+    background-repeat: no-repeat;
+    float: left;
+}
+.img17{
+    height: 700px;
+    width:  700px;
+    background-image: url(parto\ vaginal.webp) ;
+    background-repeat: no-repeat;
+    float: left;
+}
+.img18{
+    height: 700px;
+    width:  700px;
+    background-image: url(parto\ forceps.webp) ;
+    background-repeat: no-repeat;
+    float: left;
+}
+.img19{
+    height: 700px;
+    width:  700px;
+    background-image: url(parto\ cesarea.webp) ;
+    background-repeat: no-repeat;
+    float: left;
+}
+.img20{
+    height: 1700px;
+    width:  1700px;
+    background-image: url(parto\ prematuro.webp) ;
+    background-repeat: no-repeat;
     float: left;
 }
